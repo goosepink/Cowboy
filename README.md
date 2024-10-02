@@ -1,3 +1,9 @@
+# videos de la copilacion 
+### ver los primeros 25 min aprox
+[![asciicast](https://asciinema.org/a/0Z8r5oY3PHSAmVZtptgqxGrWR.svg)](https://asciinema.org/a/0Z8r5oY3PHSAmVZtptgqxGrWR)
+### copilacion y lanzamiento del server
+[![asciicast](https://asciinema.org/a/R5PovnzDtHqbiaeJIIiBIESxW.svg)](https://asciinema.org/a/R5PovnzDtHqbiaeJIIiBIESxW)
+---
 ### Fundamentos de Erlang:
 
 #### 1. ¿Qué características de Erlang lo hacen adecuado para aplicaciones de alta concurrencia y escalabilidad?
