@@ -5,6 +5,14 @@
 
 [![asciicast](https://asciinema.org/a/R5PovnzDtHqbiaeJIIiBIESxW.svg)](https://asciinema.org/a/R5PovnzDtHqbiaeJIIiBIESxW)
 
+### imagenes de resultado
+
+![Screenshot 2024-10-02 154203](https://github.com/user-attachments/assets/68794081-f44f-49b9-8979-87c0b4af19fb)
+
+![Screenshot 2024-10-02 154248](https://github.com/user-attachments/assets/ddc50d99-c607-4121-98f0-f11e114bfe56)
+
+
+
 ---
 ### Fundamentos de Erlang:
 
