@@ -2,7 +2,9 @@
 ### ver los primeros 25 min aprox
 [![asciicast](https://asciinema.org/a/0Z8r5oY3PHSAmVZtptgqxGrWR.svg)](https://asciinema.org/a/0Z8r5oY3PHSAmVZtptgqxGrWR)
 ### copilacion y lanzamiento del server
+
 [![asciicast](https://asciinema.org/a/R5PovnzDtHqbiaeJIIiBIESxW.svg)](https://asciinema.org/a/R5PovnzDtHqbiaeJIIiBIESxW)
+
 ---
 ### Fundamentos de Erlang:
 
