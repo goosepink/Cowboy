@@ -1,0 +1,19 @@
+{application, server_cowboy,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, {server_cowboy_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    ranch,
+    cowboy
+   ]},
+  {env,[]},
+  {modules, [
+    server_cowboy_app, server_cowboy_sup, server_handler, saludar_handler
+  ]},
+
+  {licenses, ["Apache-2.0"]},
+  {links, []}
+ ]}.
